@@ -96,7 +96,7 @@ I built a Python tool that:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalani-jgodigamuwa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalanij98/portfolio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalani.chathuri.jayawardana@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalanij98@gmail.com)
 
 📍 Based in Sri Lanka · Remote-friendly · Async-comfortable
 
