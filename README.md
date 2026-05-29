@@ -59,7 +59,7 @@ I built a Python tool that:
 
 **Result:** Days of manual work → under 2 minutes per search ⚡
 
-[![View Project](https://img.shields.io/badge/View%20Project%20%E2%86%92-1f883d?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/kalanij98/portfolio/tree/main/Projects/india-healthcare-clinic-finder](https://github.com/kalanij98/Projects/tree/main/india-healthcare-clinic-finder))
+[![View Project](https://img.shields.io/badge/View%20Project%20%E2%86%92-1f883d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalanij98/Projects/tree/main/india-healthcare-clinic-finder)
 
 ---
 
