@@ -95,7 +95,7 @@ I built a Python tool that:
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalani-jgodigamuwa/)
-[![Projects](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalanij98/Projects)
+[![Projects](https://img.shields.io/badge/Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalanij98/Projects)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalanij98@gmail.com)
 
 📍 Based in Sri Lanka · Remote-friendly · Async-comfortable
